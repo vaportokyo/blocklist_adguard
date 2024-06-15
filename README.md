@@ -1,2 +1,1 @@
-# blocklist_adguard
-blocklist_adguard
+# AD GUARD HOME CUSTOM LIST
